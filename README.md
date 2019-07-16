@@ -1,6 +1,6 @@
-# Python development container
+# Python containers
 
-Personal docker container for python development. Ubuntu based; all images include python 3.6 and git. Pre-built images
+Docker images for python development. Ubuntu based; all images include python 3.6 and git. Pre-built images
 can be found at hub.docker.com/r/rickdw/pydev. 
 
 The base directory contains the base image, containing just python 3.6 and git. 
